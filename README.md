@@ -1,11 +1,24 @@
 # 🛠️ 6 سيستمز بـ Claude تقدر تبنيها الويكند ده
 
+<a id="top"></a>
+
 <p align="center">
-  <a href="#prompt"><img src="https://img.shields.io/badge/%E2%9A%A1%20GET%20THE%20PROMPT-COPY%20%26%20PASTE-F97316?style=for-the-badge" alt="خد الـ Prompt على طول" height="44"></a>
-  <a href="#fill"><img src="https://img.shields.io/badge/%F0%9F%A7%AD%20PICK%20YOUR%20SYSTEM-6%20SYSTEMS-2563EB?style=for-the-badge" alt="اختار السيستم بتاعك" height="44"></a>
+  <a href="#s1"><img src="https://img.shields.io/badge/%F0%9F%92%AC%201.%20WHATSAPP%20AGENT-GET%20THE%20PROMPT-25D366?style=for-the-badge" alt="1. WhatsApp agent" height="40"></a>
+  <a href="#s2"><img src="https://img.shields.io/badge/%F0%9F%8C%90%202.%20WEBSITE%20BUILDER-GET%20THE%20PROMPT-0EA5E9?style=for-the-badge" alt="2. Website builder" height="40"></a>
+</p>
+<p align="center">
+  <a href="#s3"><img src="https://img.shields.io/badge/%F0%9F%93%A9%203.%20INSTAGRAM%20COMMENT%20TO%20DM-GET%20THE%20PROMPT-DD2A7B?style=for-the-badge" alt="3. Instagram Comment to DM" height="40"></a>
+  <a href="#s4"><img src="https://img.shields.io/badge/%F0%9F%93%88%204.%20FACEBOOK%20ADS%20ENGINE-GET%20THE%20PROMPT-1877F2?style=for-the-badge" alt="4. Facebook ads engine" height="40"></a>
+</p>
+<p align="center">
+  <a href="#s5"><img src="https://img.shields.io/badge/%F0%9F%8E%AC%205.%20VIDEO%20EDITOR-GET%20THE%20PROMPT-7C4DFF?style=for-the-badge" alt="5. Video editor" height="40"></a>
+  <a href="#s6"><img src="https://img.shields.io/badge/%E2%98%80%EF%B8%8F%206.%20PERSONAL%20ASSISTANT-GET%20THE%20PROMPT-EA4335?style=for-the-badge" alt="6. Personal assistant" height="40"></a>
+</p>
+<p align="center">
+  <a href="#prompt"><img src="https://img.shields.io/badge/%E2%9A%A1%20NOT%20SURE%3F-ALL%20IN%20ONE%20PROMPT-F97316?style=for-the-badge" alt="مش عارف تختار؟ الـ Prompt الشامل" height="40"></a>
 </p>
 
-<p align="center"><b>👆 دوس على الزرار البرتقاني وهتروح للـ Prompt على طول — الصقه في Claude، وهو هيسألك وإنت تجاوب.</b></p>
+<p align="center"><b>👆 دوس على زرار السيستم اللي عايزه وهتروح لخطواته والـ Prompt بتاعه على طول — الصقه في Claude، وهو هيسألك وإنت تجاوب.<br>مش عارف تختار؟ دوس على البرتقاني وClaude هيختارلك.</b></p>
 
 الناس كلها بتتكلم عن الـ AI، بس قليل اللي بيبني بيه **سيستم شغال فعلاً** بيوفر وقت أو بيجيب فلوس.
 هنا الـ 6 سيستمز اللي في الريل، وكل سيستم معاه: تفتح إيه، تلصق إيه، وClaude **هيسألك أسئلة عن البيزنس بتاعك** الأول، وبعدين يبنيه معاك خطوة بخطوة.
@@ -159,6 +172,8 @@ Talk to me in Egyptian Arabic, tech terms in English. Never message real custome
 
 **نصيحة:** خلّي أي حاجة فيها فلوس أو شكوى تتحول لإنسان. الـ Agent يرد ويجمع البيانات، وإنت تقفل البيعة.
 
+<p align="center"><a href="#top">⬆️ رجوع لزراير السيستمز</a></p>
+
 ---
 
 <a id="s2"></a>
@@ -205,6 +220,8 @@ Talk to me in Egyptian Arabic, tech terms in English. Don't deploy anything with
 
 **نصيحة:** ده سيستم بيتباع: اعمل website لمحل قريب منك ببلاش، ابعتهوله، واعرض عليه يخليه live بمبلغ بسيط.
 
+<p align="center"><a href="#top">⬆️ رجوع لزراير السيستمز</a></p>
+
 ---
 
 <a id="s3"></a>
@@ -247,6 +264,8 @@ Talk to me in Egyptian Arabic, tech terms in English. Don't message real followe
 ```
 
 **نصيحة:** الملف اللي في الـ DM لازم يكون مفيد بجد، لو الناس حسّت إنه فاضي مش هيكتبوا تاني.
+
+<p align="center"><a href="#top">⬆️ رجوع لزراير السيستمز</a></p>
 
 ---
 
@@ -292,6 +311,8 @@ Talk to me in Egyptian Arabic. Keep the pattern of the winning ads, never copy t
 
 **نصيحة:** متنسخش الإعلان، انسخ **الفكرة**: نوع الـ hook وشكل العرض.
 
+<p align="center"><a href="#top">⬆️ رجوع لزراير السيستمز</a></p>
+
 ---
 
 <a id="s5"></a>
@@ -335,6 +356,8 @@ Talk to me in Egyptian Arabic, tech terms in English. Ask before installing pack
 ```
 
 **نصيحة:** أول مرة هتاخد وقت، بس بعد كده كل reel جديد هياخد أمر واحد.
+
+<p align="center"><a href="#top">⬆️ رجوع لزراير السيستمز</a></p>
 
 ---
 
@@ -380,6 +403,8 @@ Talk to me in Egyptian Arabic. Never send, delete or archive emails, and never a
 ```
 
 **نصيحة:** خليه **Draft only** دايماً. إنت اللي تدوس Send.
+
+<p align="center"><a href="#top">⬆️ رجوع لزراير السيستمز</a></p>
 
 ---
 
